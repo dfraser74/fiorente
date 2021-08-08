@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'OktaNeue-Normal';
+   font-display: swap;
+   src: url('OktaNeue-Normal/font.ttf');
+}
+@font-face {
+   font-family: 'AdonisC Regular';
+   font-display: swap;
+   src: url('AdonisC Regular/font.ttf');
+}

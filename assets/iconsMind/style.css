@@ -2045,7 +2045,7 @@
 .imind-file-html:before {
 	content: "\e8a1";
 }
-.imind-file-jpg:before {
+.imind-file-webp:before {
 	content: "\e8a2";
 }
 .imind-file-link:before {

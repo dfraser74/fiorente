@@ -1,10 +1,4 @@
 Options +FollowSymLinks -MultiViews
 RewriteEngine On
-RewriteBase /
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s([^.]+)\.html [NC]
-RewriteRule ^ %1 [R,L]
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME}.html -f
-RewriteRule ^(.*?)/?$ $1.html [L]
-RewriteCond %{HTTP_HOST} ^fiorenteadvisory.com.au [NC]
-RewriteRule ^(.*)$ https://www.fiorenteadvisory.com.au/$1 [L,R=301,NC]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]

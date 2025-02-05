@@ -8644,9 +8644,6 @@ a {
 .cid-sVuf2NFJvc img {
   width: 100%;
   border-radius: 10px;
-  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  -moz-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 @media (max-width: 992px) {
   .cid-sVuf2NFJvc img {
@@ -8666,6 +8663,49 @@ a {
   color: #303644;
 }
 .cid-sVuf2NFJvc .mbr-section-title {
+  color: #303644;
+}
+.cid-uBUzAV4reZ {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #ffffff;
+}
+.cid-uBUzAV4reZ .row {
+  background: #ffffff;
+  padding: 2rem 1rem;
+  margin: 0rem;
+  border-radius: 10px;
+  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  -moz-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+@media (max-width: 767px) {
+  .cid-uBUzAV4reZ .row {
+    padding: 1rem 0rem;
+  }
+}
+.cid-uBUzAV4reZ img {
+  width: 100%;
+  border-radius: 10px;
+}
+@media (max-width: 992px) {
+  .cid-uBUzAV4reZ img {
+    width: 100%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-uBUzAV4reZ .image-wrapper {
+    padding-bottom: 2rem;
+  }
+}
+.cid-uBUzAV4reZ .mbr-text,
+.cid-uBUzAV4reZ .mbr-section-btn {
+  color: #7c86a4;
+}
+.cid-uBUzAV4reZ .mbr-section-subtitle {
+  color: #303644;
+}
+.cid-uBUzAV4reZ .mbr-section-title {
   color: #303644;
 }
 .cid-u3sWt9EqY8 {
@@ -8690,9 +8730,6 @@ a {
 .cid-u3sWt9EqY8 img {
   width: 100%;
   border-radius: 10px;
-  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  -moz-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 @media (max-width: 992px) {
   .cid-u3sWt9EqY8 img {
@@ -8736,9 +8773,6 @@ a {
 .cid-tQgFcq7AcJ img {
   width: 100%;
   border-radius: 10px;
-  -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  -moz-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
-  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 @media (max-width: 992px) {
   .cid-tQgFcq7AcJ img {
